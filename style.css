@@ -240,6 +240,10 @@ footer ul {
 .obra {
   text-align: center;
   width: 150px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .obra p {
