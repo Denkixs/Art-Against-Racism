@@ -390,6 +390,7 @@ footer ul {
   }
 }
 
+
 @media (min-width: 801px) and (max-width: 1024px) {
   .logo {
     flex-direction: row;
