@@ -4,6 +4,19 @@
   font-family: 'Delius', sans-serif;
 }
 
+.body::-webkit-scrollbar {
+    width: 25px;
+    }
+
+.body::-webkit-scrollbar-track {
+    background: #1d0500;
+    }
+
+.body::-webkit-scrollbar-thumb {
+    background: #3d2420;
+    border-radius: 5px;
+    }
+
 html {
   scroll-behavior: smooth;
 }
